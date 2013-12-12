@@ -27,7 +27,7 @@
 #include <Renderer.h>
 #include <MeshTools/CompressIndices.h>
 #include <MeshTools/Interleave.h>
-#include <Platform/GlutApplication.h>
+#include <Platform/SDL2Application.h>
 #include <Primitives/Icosphere.h>
 #include <SceneGraph/Scene.h>
 #include <Shaders/Phong.h>

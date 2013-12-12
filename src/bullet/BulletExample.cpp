@@ -35,7 +35,7 @@
 #include <Shapes/Box.h>
 #include <Shapes/Shape.h>
 #include <Shapes/ShapeGroup.h>
-#include <Platform/GlutApplication.h>
+#include <Platform/SDL2Application.h>
 #include <Renderer.h>
 #include <SceneGraph/Camera3D.h>
 #include <SceneGraph/MatrixTransformation3D.h>

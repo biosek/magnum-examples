@@ -26,7 +26,7 @@
 #include <Buffer.h>
 #include <DefaultFramebuffer.h>
 #include <Mesh.h>
-#include <Platform/GlutApplication.h>
+#include <Platform/SDL2Application.h>
 #include <Shaders/VertexColor.h>
 
 namespace Magnum { namespace Examples {

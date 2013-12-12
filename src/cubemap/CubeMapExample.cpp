@@ -30,7 +30,7 @@
 #include <Mesh.h>
 #include <Renderer.h>
 #include <Texture.h>
-#include <Platform/GlutApplication.h>
+#include <Platform/SDL2Application.h>
 #include <SceneGraph/Drawable.h>
 #include <SceneGraph/Scene.h>
 #include <SceneGraph/Camera3D.h>

@@ -29,7 +29,7 @@
 #include <Mesh.h>
 #include <Texture.h>
 #include <TextureFormat.h>
-#include <Platform/GlutApplication.h>
+#include <Platform/SDL2Application.h>
 #include <Trade/AbstractImporter.h>
 #include <Trade/ImageData.h>
 

@@ -28,7 +28,7 @@ find_package(Magnum REQUIRED
     SceneGraph
     Shaders
     Shapes
-    GlutApplication)
+    SDL2Application)
 
 find_package(MagnumIntegration REQUIRED Bullet)
 

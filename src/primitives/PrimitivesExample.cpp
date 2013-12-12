@@ -26,7 +26,7 @@
 #include <Renderer.h>
 #include <MeshTools/Interleave.h>
 #include <MeshTools/CompressIndices.h>
-#include <Platform/GlutApplication.h>
+#include <Platform/SDL2Application.h>
 #include <Primitives/Cube.h>
 #include <Shaders/Phong.h>
 #include <Trade/MeshData3D.h>

@@ -24,7 +24,7 @@
 
 #include <PluginManager/Manager.h>
 #include <DefaultFramebuffer.h>
-#include <Platform/GlutApplication.h>
+#include <Platform/SDL2Application.h>
 #include <SceneGraph/Scene.h>
 #include <Trade/AbstractImporter.h>
 

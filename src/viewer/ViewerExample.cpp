@@ -32,7 +32,7 @@
 #include <Texture.h>
 #include <MeshTools/Interleave.h>
 #include <MeshTools/CompressIndices.h>
-#include <Platform/GlutApplication.h>
+#include <Platform/SDL2Application.h>
 #include <SceneGraph/Camera3D.h>
 #include <SceneGraph/Drawable.h>
 #include <SceneGraph/MatrixTransformation3D.h>
